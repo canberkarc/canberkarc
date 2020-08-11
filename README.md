@@ -25,3 +25,4 @@
 <code><a target="_blank"><img height="50" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></a></code>
 <code><a target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></a></code>
 <code><a target="_blank"><img height="35" src="https://seeklogo.com/images/L/linux-logo-3793382FC8-seeklogo.com.png"></a></code>
+<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></a></code>
