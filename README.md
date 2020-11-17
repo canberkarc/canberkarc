@@ -1,4 +1,4 @@
-## Hi, I'm Canberk 🙋‍
+## Hi, I'm Canberk 
 
 ### I'm an AI Enthusiast and constantly developing myself in machine learning&deep learning,
 ### currently computer engineering student at Gebze Technical University.
