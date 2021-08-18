@@ -10,11 +10,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-cnberkarc-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/cnberkarc/)](https://instagram.com/cnberkarc)
 
 
-### 💻 Currently working on:
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a target="_blank"><img height="50" src="https://img.icons8.com/nolan/64/sql.png"></a></code>
-
 ### 👨‍💻 Languages and Tools:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://img.icons8.com/nolan/64/sql.png"></a></code>
