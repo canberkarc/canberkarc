@@ -13,9 +13,7 @@
 ### 💻 Currently working on:
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://scikit-learn.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"></a></code>
-<code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="https://www.pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
+
 <code><a target="_blank"><img height="50" src="https://img.icons8.com/nolan/64/sql.png"></a></code>
 
 ### 👨‍💻 Languages and Tools:
@@ -26,3 +24,4 @@
 <code><a target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></a></code>
 <code><a target="_blank"><img height="35" src="https://seeklogo.com/images/L/linux-logo-3793382FC8-seeklogo.com.png"></a></code>
 <code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://img1.pnghut.com/17/0/17/e4zuAKeStT/logo-java-development-kit-symbol-text.jpg"></a></code>
