@@ -18,4 +18,4 @@
 <code><a target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></a></code>
 <code><a target="_blank"><img height="35" src="https://seeklogo.com/images/L/linux-logo-3793382FC8-seeklogo.com.png"></a></code>
 <code><a target="_blank"><img height="50" src="https://img1.pnghut.com/17/0/17/e4zuAKeStT/logo-java-development-kit-symbol-text.jpg"></a></code>
-<code><a target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1024px-Julia_Programming_Language_Logo.svg.png"></a></code>
+<code><a target="_blank"><img height="50" src="https://miro.medium.com/max/1200/1*fep4idD8f924P1D6rlL1uw.jpeg"></a></code>
