@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Languages and Tools:
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a target="_blank"><img height="50" src="https://cdnlogo.com/logo/mysql_9525.html"></a></code>
+<code><a target="_blank"><img height="50" src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
 <code><a target="_blank"><img height="50" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></a></code>
 <code><a target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></a></code>
