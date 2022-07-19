@@ -1,7 +1,6 @@
 ## Hi, I'm Canberk 
 
-### I'm an AI Enthusiast and constantly developing myself in machine learning&deep learning,
-### currently senior computer engineering student at Gebze Technical University.
+### I'm a machine learning engineer who is  an AI Enthusiast and constantly developing in machine learning&deep learning.
 
 ### 📫 Where to find me: 
 
