@@ -1,6 +1,6 @@
 ## Hi, I'm Canberk 
 
-### I'm a machine learning engineer who is  an AI Enthusiast and constantly developing in machine learning&deep learning.
+### I'm a machine learning engineer who is AI Enthusiast and constantly developing in machine learning&deep learning.
 
 ### 📫 Where to find me: 
 
