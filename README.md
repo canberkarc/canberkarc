@@ -1,6 +1,6 @@
 ## Hi, I'm Canberk 
 
-### I'm a data science assistant specialist at Borusan/CAT who is AI Enthusiast and constantly developing in machine learning&deep learning.
+### I'm a data scientist at Borusan/CAT who is AI Enthusiast and constantly developing in machine learning&deep learning.
 
 ### 📫 Where to find me: 
 
